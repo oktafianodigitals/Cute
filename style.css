@@ -361,6 +361,7 @@ body {
     padding: 15px 25px;
     box-shadow: 0 10px 30px rgba(255, 105, 180, 0.3);
     z-index: 100;
+    opacity: 0;
 }
 
 .footer {
